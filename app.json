@@ -1,0 +1,6 @@
+{
+    "name": "Peribadi Search",
+    "description": "A containerized, lightweight Google desktop / mobile search proxy that excludes Javascript, AMP, track and ads / sponsored content.",
+    "keywords": ["search", "metasearch", "flask", "docker", "heroku", "adblock", "degoogle", "privacy"],
+    "stack": "container"
+}
