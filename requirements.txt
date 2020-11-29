@@ -22,7 +22,7 @@ pycparser==2.19
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 PySocks==1.7.1
-pytest==5.4.1
+pytest==4.6.11
 python-dateutil==2.8.1
 requests==2.23.0
 soupsieve==1.9.5
